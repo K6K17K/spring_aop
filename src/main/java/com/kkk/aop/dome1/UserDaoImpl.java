@@ -22,4 +22,5 @@ public class UserDaoImpl implements UserDao {
     public void find() {
         System.out.println("查询用户");
     }
+
 }
